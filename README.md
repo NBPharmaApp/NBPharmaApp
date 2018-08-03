@@ -8,16 +8,16 @@ medecins.
 
 The features of app :
 
-*[ ] User can ** sign in** to the NBPharma, with OAuth login 
-*[ ] Can enter a ** search of their medication** 
-*[ ] Should be displayed the image, name of product, presentation of
- product 
-*[ ] Should be displayed the drugstores having the drug.
-	*[ ] Can find the address of store 
-*[ ] Able to **Call the pharmacy** 
-*[ ] Can **localize those drugstores** and have the specific adress 
+* [ ] User can ** sign in** to the NBPharma, with OAuth login 
+* [ ] Can enter a ** search of their medication** 
+* [ ] Should be displayed the image, name of product, presentation of
+ medicine 
+* [ ] Should be displayed the drugstores having the drug.
+	* [ ] Can find the address of store 
+* [ ] Able to **Call the pharmacy** 
+* [ ] Can **localize those drugstores** and have the specific adress 
 using Google Map API 
-*[ ] **Receive healt advice** 
+* [ ] **Receive healt advice** 
 *[ ] Can **share drugstore’s informations**
 	*[ ] Find posology of the medicine 
 *[ ] Can find the medicine's price (approximatively) 
