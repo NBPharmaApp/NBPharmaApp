@@ -8,8 +8,8 @@ medecins.
 
 The features of app :
 
-* [ ] User can ** sign in** to the NBPharma, with OAuth login 
-* [ ] Can enter a ** search of their medication** 
+* [ ] User can **sign in** to the NBPharma, with OAuth login 
+* [ ] Can enter a **search of their medication** 
 * [ ] Should be displayed the image, name of product, presentation of
  medicine 
 * [ ] Should be displayed the drugstores having the drug.
@@ -18,16 +18,16 @@ The features of app :
 * [ ] Can **localize those drugstores** and have the specific adress 
 using Google Map API 
 * [ ] **Receive healt advice** 
-*[ ] Can **share drugstore’s informations**
-	*[ ] Find posology of the medicine 
-*[ ] Can find the medicine's price (approximatively) 
-*[ ] Can make their reservation of medicine 
+* [ ] Can **share drugstore’s informations**
+	* [ ] Find posology of the medicine 
+* [ ] Can find the medicine's price (approximatively) 
+* [ ] Can make their reservation of medicine 
 
 Pharmacist stories :
  
-*[ ] Can sign into the NBPharma, with OAuth login 
-*[ ] Can add Medoc’s 
-*[ ] Can confirm reservation of client.
+* [ ] Can **sign** into the NBPharma, with OAuth login 
+* [ ] Can **add** Medoc’s 
+* [ ] Can confirm reservation of client.
 
 ## License
 	Copyright 2018 TeamPharma
