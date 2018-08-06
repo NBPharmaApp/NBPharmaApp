@@ -1,8 +1,8 @@
 # Projet Final - *NBPharma*
 
-**NBPharmaApp** est une application mobile qui permet a tout le monde de 
-pouvoir trouver une pharmacie ayant le medicamnet prescrit par les 
-medecins.
+**NBPharmaApp** is a mobile application that allows everyone to be able to find a pharmacy with the prescribed medication
+doctors.
+
 
 ## User Stories
 
@@ -29,8 +29,24 @@ Pharmacist stories :
 * [ ] Can **add** Medoc’s 
 * [ ] Can confirm reservation of client.
 
+## Pictures Walkthrough
+
+Here's a walkthrough of implemented user stories:
+Wireframe 1
+![page_1](https://user-images.githubusercontent.com/40301223/43667953-f6d00c66-973f-11e8-96ce-94a9f99cd6b0.png)
+
+Wireframe 2
+![page_2](https://user-images.githubusercontent.com/40301223/43667954-f7523a4c-973f-11e8-8542-ce636aac77f5.png)
+
+Wireframe 3
+![page_3](https://user-images.githubusercontent.com/40301223/43667955-f7bd8ee6-973f-11e8-9430-de987afc09c8.png)
+
+
+
+Wireframe created with [Wireframe](http://www.wireframepro.com/).
+
 ## License
-	Copyright 2018 TeamPharma
+	Copyright 2018 TeamPharma [ Neila LAVIOLETTE Rebecca BAZILE Vellie LAGUERRE Emaude ALTEMA]
 
 		Licensed under the Apache License, Version 2.0 (the "License");
         you may not use this file except in compliance with the License.
