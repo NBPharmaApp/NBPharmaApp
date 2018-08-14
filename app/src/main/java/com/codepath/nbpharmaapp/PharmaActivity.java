@@ -10,4 +10,7 @@ public class PharmaActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_pharma);
     }
+
+    public void dismiss() {
+    }
 }
